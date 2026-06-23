@@ -35,8 +35,7 @@ Project Files
 Dataset.txt               # Dataset information
 Realtimedetection.py      # Real-time emotion detection script
 Trained model.ipynb       # Model training notebook
-Requirements.txt          # Required libraries
-LICENSE                   # License file
+Requirements.txt          # Required librarie
 README.md                 # Project documentation
 Installation
 
